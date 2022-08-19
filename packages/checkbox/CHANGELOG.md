@@ -1,5 +1,25 @@
 # Change Log
 
+## 2.1.8
+
+### Patch Changes
+
+- [#6505](https://github.com/chakra-ui/chakra-ui/pull/6505)
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor checkbox
+
+- Updated dependencies
+  [[`d4c55b5db`](https://github.com/chakra-ui/chakra-ui/commit/d4c55b5dbf24421aa3050fc7823fd948fb63378a),
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16),
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16),
+  [`5aaac9902`](https://github.com/chakra-ui/chakra-ui/commit/5aaac9902c2c26790831bb5f0fdab99eb2dee99a),
+  [`c6a8355c4`](https://github.com/chakra-ui/chakra-ui/commit/c6a8355c41f40147c1207340935c58901df2552b),
+  [`e111fa229`](https://github.com/chakra-ui/chakra-ui/commit/e111fa229227a90c8caf541b2e51cf6c80229e6e)]:
+  - @chakra-ui/shared-utils@2.0.1
+  - @chakra-ui/react-use-safe-layout-effect@2.0.1
+  - @chakra-ui/form-control@2.0.9
+  - @chakra-ui/visually-hidden@2.0.8
+
 ## 2.1.7
 
 ### Patch Changes

@@ -1,5 +1,64 @@
 # Change Log
 
+## 2.2.9
+
+### Patch Changes
+
+- Updated dependencies
+  [[`8de426188`](https://github.com/chakra-ui/chakra-ui/commit/8de426188e4bc9ebc2834cfc026bfbdf29882fb2),
+  [`1fb4c013a`](https://github.com/chakra-ui/chakra-ui/commit/1fb4c013a07ba17d53f993c57ff3e4d1734e9bde),
+  [`5cb345889`](https://github.com/chakra-ui/chakra-ui/commit/5cb3458898be65b789452c1380ce84de5135cb96),
+  [`02a1e0962`](https://github.com/chakra-ui/chakra-ui/commit/02a1e096295a25cbdcddf20c77d8e600027ccfca),
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16),
+  [`b3eafb6b0`](https://github.com/chakra-ui/chakra-ui/commit/b3eafb6b0908c28edbfc25638bf9fa2e3afad379),
+  [`6a0713b43`](https://github.com/chakra-ui/chakra-ui/commit/6a0713b436a136d2fdd74d746f7de849cecde85a),
+  [`d4c55b5db`](https://github.com/chakra-ui/chakra-ui/commit/d4c55b5dbf24421aa3050fc7823fd948fb63378a),
+  [`c6a8355c4`](https://github.com/chakra-ui/chakra-ui/commit/c6a8355c41f40147c1207340935c58901df2552b),
+  [`96bf71998`](https://github.com/chakra-ui/chakra-ui/commit/96bf7199889d2023bb2e4fd3f9c0511bffa70e9e),
+  [`fc7ea1369`](https://github.com/chakra-ui/chakra-ui/commit/fc7ea1369cd764dd2c6ab724091f16ab3cca281c),
+  [`f6a0558c3`](https://github.com/chakra-ui/chakra-ui/commit/f6a0558c3ca8ebadf6b9ba3257ebf1313b143bb3),
+  [`e111fa229`](https://github.com/chakra-ui/chakra-ui/commit/e111fa229227a90c8caf541b2e51cf6c80229e6e),
+  [`445661955`](https://github.com/chakra-ui/chakra-ui/commit/445661955dff1329156b535ef50c7cf27b8663a9)]:
+  - @chakra-ui/close-button@2.0.9
+  - @chakra-ui/avatar@2.0.10
+  - @chakra-ui/editable@2.0.9
+  - @chakra-ui/breadcrumb@2.0.9
+  - @chakra-ui/checkbox@2.1.8
+  - @chakra-ui/icon@3.0.9
+  - @chakra-ui/alert@2.0.9
+  - @chakra-ui/accordion@2.0.11
+  - @chakra-ui/form-control@2.0.9
+  - @chakra-ui/counter@2.0.9
+  - @chakra-ui/image@2.0.10
+  - @chakra-ui/layout@2.1.6
+  - @chakra-ui/button@2.0.9
+  - @chakra-ui/control-box@2.0.9
+  - @chakra-ui/modal@2.1.7
+  - @chakra-ui/popover@2.0.9
+  - @chakra-ui/toast@3.0.7
+  - @chakra-ui/tag@2.0.9
+  - @chakra-ui/menu@2.0.11
+  - @chakra-ui/pin-input@2.0.11
+  - @chakra-ui/tabs@2.0.11
+  - @chakra-ui/system@2.2.7
+  - @chakra-ui/switch@2.0.11
+  - @chakra-ui/number-input@2.0.9
+  - @chakra-ui/stat@2.0.9
+  - @chakra-ui/input@2.0.9
+  - @chakra-ui/radio@2.0.10
+  - @chakra-ui/select@2.0.9
+  - @chakra-ui/textarea@2.0.10
+  - @chakra-ui/skeleton@2.0.14
+  - @chakra-ui/portal@2.0.8
+  - @chakra-ui/table@2.0.8
+  - @chakra-ui/tooltip@2.0.9
+  - @chakra-ui/media-query@3.2.4
+  - @chakra-ui/progress@2.0.9
+  - @chakra-ui/provider@2.0.14
+  - @chakra-ui/slider@2.0.8
+  - @chakra-ui/spinner@2.0.8
+  - @chakra-ui/visually-hidden@2.0.8
+
 ## 2.2.8
 
 ### Patch Changes

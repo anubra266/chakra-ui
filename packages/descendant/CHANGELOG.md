@@ -1,5 +1,13 @@
 # Change Log
 
+## 3.0.8
+
+### Patch Changes
+
+- [#6509](https://github.com/chakra-ui/chakra-ui/pull/6509)
+  [`196b19fc8`](https://github.com/chakra-ui/chakra-ui/commit/196b19fc8f5d789b791559b1bcc593b6a2a4eb10)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor descendants
+
 ## 3.0.7
 
 ### Patch Changes

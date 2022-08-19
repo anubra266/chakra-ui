@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.2.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`7820aa67e`](https://github.com/chakra-ui/chakra-ui/commit/7820aa67e42d28cb1df5f87b0e4eb6121d38df08)]:
+  - @chakra-ui/color-mode@2.1.7
+
 ## 2.2.6
 
 ### Patch Changes

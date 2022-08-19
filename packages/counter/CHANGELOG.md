@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.0.9
+
+### Patch Changes
+
+- [#6485](https://github.com/chakra-ui/chakra-ui/pull/6485)
+  [`96bf71998`](https://github.com/chakra-ui/chakra-ui/commit/96bf7199889d2023bb2e4fd3f9c0511bffa70e9e)
+  Thanks [@m4x3d](https://github.com/m4x3d)! - Fix default values for min and
+  max prop in docs
+
 ## 2.0.8
 
 ### Patch Changes
