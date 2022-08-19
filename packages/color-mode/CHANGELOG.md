@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.1.7
+
+### Patch Changes
+
+- [#6507](https://github.com/chakra-ui/chakra-ui/pull/6507)
+  [`7820aa67e`](https://github.com/chakra-ui/chakra-ui/commit/7820aa67e42d28cb1df5f87b0e4eb6121d38df08)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor color mode
+
+- Updated dependencies
+  [[`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16)]:
+  - @chakra-ui/react-use-safe-layout-effect@2.0.1
+
 ## 2.1.6
 
 ### Patch Changes

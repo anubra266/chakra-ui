@@ -1,5 +1,25 @@
 # Change Log
 
+## 2.1.6
+
+### Patch Changes
+
+- [#6518](https://github.com/chakra-ui/chakra-ui/pull/6518)
+  [`f6a0558c3`](https://github.com/chakra-ui/chakra-ui/commit/f6a0558c3ca8ebadf6b9ba3257ebf1313b143bb3)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor layout
+
+- Updated dependencies
+  [[`d4c55b5db`](https://github.com/chakra-ui/chakra-ui/commit/d4c55b5dbf24421aa3050fc7823fd948fb63378a),
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16),
+  [`b3eafb6b0`](https://github.com/chakra-ui/chakra-ui/commit/b3eafb6b0908c28edbfc25638bf9fa2e3afad379),
+  [`5aaac9902`](https://github.com/chakra-ui/chakra-ui/commit/5aaac9902c2c26790831bb5f0fdab99eb2dee99a),
+  [`e859f2a93`](https://github.com/chakra-ui/chakra-ui/commit/e859f2a93006a71cb11a53e59b1bca1fa47a2f30),
+  [`e111fa229`](https://github.com/chakra-ui/chakra-ui/commit/e111fa229227a90c8caf541b2e51cf6c80229e6e)]:
+  - @chakra-ui/shared-utils@2.0.1
+  - @chakra-ui/icon@3.0.9
+  - @chakra-ui/react-children-utils@2.0.1
+  - @chakra-ui/breakpoint-utils@2.0.3
+
 ## 2.1.5
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.0.14
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/system@2.2.7
+  - @chakra-ui/media-query@3.2.4
+
 ## 2.0.13
 
 ### Patch Changes

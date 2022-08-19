@@ -1,5 +1,18 @@
 # Change Log
 
+## 2.0.9
+
+### Patch Changes
+
+- [#6500](https://github.com/chakra-ui/chakra-ui/pull/6500)
+  [`6a0713b43`](https://github.com/chakra-ui/chakra-ui/commit/6a0713b436a136d2fdd74d746f7de849cecde85a)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor Alert
+
+- Updated dependencies
+  [[`b3eafb6b0`](https://github.com/chakra-ui/chakra-ui/commit/b3eafb6b0908c28edbfc25638bf9fa2e3afad379)]:
+  - @chakra-ui/icon@3.0.9
+  - @chakra-ui/spinner@2.0.8
+
 ## 2.0.8
 
 ### Patch Changes

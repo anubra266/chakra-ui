@@ -1,5 +1,20 @@
 # Change Log
 
+## 3.0.9
+
+### Patch Changes
+
+- [#6515](https://github.com/chakra-ui/chakra-ui/pull/6515)
+  [`b3eafb6b0`](https://github.com/chakra-ui/chakra-ui/commit/b3eafb6b0908c28edbfc25638bf9fa2e3afad379)
+  Thanks [@anubra266](https://github.com/anubra266)! - Refactor Icon
+
+- Updated dependencies
+  [[`d4c55b5db`](https://github.com/chakra-ui/chakra-ui/commit/d4c55b5dbf24421aa3050fc7823fd948fb63378a),
+  [`403aab76b`](https://github.com/chakra-ui/chakra-ui/commit/403aab76bd4a63569869cb6648495414e4a90b16),
+  [`5aaac9902`](https://github.com/chakra-ui/chakra-ui/commit/5aaac9902c2c26790831bb5f0fdab99eb2dee99a),
+  [`e111fa229`](https://github.com/chakra-ui/chakra-ui/commit/e111fa229227a90c8caf541b2e51cf6c80229e6e)]:
+  - @chakra-ui/shared-utils@2.0.1
+
 ## 3.0.8
 
 ### Patch Changes
